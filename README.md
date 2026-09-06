@@ -57,35 +57,28 @@ The project focuses on providing a clean, responsive, and user-friendly interfac
 - Implemented responsive design using CSS and Bootstrap.
 - Used LocalStorage to maintain relevant user and loan information on the frontend.
 
-📸 Screenshots
+## 📸 Screenshots
 
-📝 Register Page
+### 📝 Register Page
+![Register Page](./REGISTER%20PAGE.png)
 
-"Register Page" (./REGISTER%20PAGE.png)
+### 🔐 Login Page
+![Login Page](./LOGIN%20PAGE.png)
 
-🔐 Login Page
+### 🏠 Dashboard Page
+![Dashboard Page](./DASHBOARD.png)
 
-"Login Page" (./LOGIN%20PAGE.png)
+### 🔔 Reminder Page
+![Reminder Page](./REMINDER.png)
 
-🏠 Dashboard Page
+### 💳 Loan Page 1
+![Loan Page 1](./LOAN%20PAGE%201.png)
 
-"Dashboard Page" (./DASHBOARD.png)
+### 💳 Loan Page 2
+![Loan Page 2](./LOAN%20PAGE%202.png)
 
-🔔 Reminder Page
-
-"Reminder Page" (./REMINDER.png)
-
-💳 Loan Page 1
-
-"Loan Page 1" (./LOAN%20PAGE%201.png)
-
-💳 Loan Page 2
-
-"Loan Page 2" (./LOAN%20PAGE%202.png)
-
-💰 Repayment Page
-
-"Repayment Page" (./REPAYMENT.png)
+### 💰 Repayment Page
+![Repayment Page](./REPAYMENT.png)
 
 🔮 Future Enhancements
 
