@@ -60,10 +60,10 @@ The project focuses on providing a clean, responsive, and user-friendly interfac
 ## 📸 Screenshots
 
 ### 📝 Register Page
-![Register Page](./REGISTER%20PAGE.png)
+![Register Page](./REGISTER.png)
 
 ### 🔐 Login Page
-![Login Page](./LOGIN%20PAGE.png)
+![Login Page](./LOGIN.png)
 
 ### 🏠 Dashboard Page
 ![Dashboard Page](./DASHBOARD.png)
